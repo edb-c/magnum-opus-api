@@ -1,0 +1,3 @@
+class Myluckynumber < ApplicationRecord
+
+end
